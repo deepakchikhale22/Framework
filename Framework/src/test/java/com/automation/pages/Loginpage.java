@@ -27,6 +27,4 @@ public class Loginpage
 		pass.sendKeys(password);
 		loginbtn.click();
 	}
-
-	
 }
